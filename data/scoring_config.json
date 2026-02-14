@@ -1,0 +1,7 @@
+{
+  "radius_um": 50.0,
+  "distance_penalty_at_radius": 5.0,
+  "type_match_bonus": 2.0,
+  "type_mismatch_penalty": 5.0,
+  "score_threshold": 95.0
+}
